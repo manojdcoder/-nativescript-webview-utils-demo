@@ -1,0 +1,4 @@
+<GridLayout row="0" columns="*,auto">
+    <Label col="0" text="{{ src }}" />
+    <Button col="1" text="Get Html" tap="{{ onHtmlButtonTap }}" />
+</GridLayout>

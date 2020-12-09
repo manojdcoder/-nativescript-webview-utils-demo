@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+    xmlns:app-web-view="web-view">
+    <ActionBar title="WebView Demo" icon=""></ActionBar>
+    <app-web-view:main />
+</Page>

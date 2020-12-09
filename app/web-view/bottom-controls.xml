@@ -1,0 +1,4 @@
+<GridLayout row="2" columns="auto,auto">
+    <Button col="0" text="Backward" tap="{{ onBackwardButtonTap }}" />
+    <Button col="1" text="Forward" tap="{{ onForwardButtonTap }}" />
+</GridLayout>

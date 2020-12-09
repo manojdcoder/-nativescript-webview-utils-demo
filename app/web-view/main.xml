@@ -1,0 +1,6 @@
+<GridLayout rows="auto,*,auto"
+    xmlns:app-web-view="web-view" loaded="onLoaded">
+    <app-web-view:top-controls />
+    <WebView id="webView" row="1" src="https://www.footasylum.com" />
+    <app-web-view:bottom-controls />
+</GridLayout>
